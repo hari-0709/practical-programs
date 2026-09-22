@@ -1,3 +1,4 @@
+
 # M. Hari — HTML, CSS & JavaScript Practical Programs
 
 **Student Name:** M. Hari  
@@ -36,7 +37,7 @@ The separate early lists are retained rather than silently merging duplicate or 
 
 ## Folder Structure
 
-```text
+text
 project/
 ├── index.html
 ├── README.md
@@ -56,7 +57,7 @@ project/
 ├── web-storage/
 ├── mini-projects/
 └── nodejs/
-```
+
 
 ## Running the Project
 
@@ -91,4 +92,4 @@ The project follows the assignment requirements by using:
 **PRN:** 250200210  
 **Section:** 5
 
-This website is submitted as the student's organized practical-programs portfolio for the HTML, CSS and JavaScript practical assignment.
+
